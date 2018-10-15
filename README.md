@@ -21,3 +21,4 @@ i'll modify the code (one day) to separate those 2 paramaters
 
 
 everyone can use this code for anything he want. i don't care not sure the code work in 100% of case
+but please if you use it email me or send me a message i just want to know if somebody will use that one day.
