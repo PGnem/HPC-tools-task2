@@ -18,3 +18,6 @@ to execute the program
 ./a.out N
 N is the size of A and BIG
 i'll modify the code (one day) to separate those 2 paramaters
+
+
+everyone can use this code for anything he want. i don't care not sure the code work in 100% of case
